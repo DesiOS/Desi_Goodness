@@ -5,7 +5,7 @@
            fetch=".."
            review="review.lineageos.org" />
 
-  <remote name="DesiOS"
+  <remote name="dosp"
            fetch="https://github.com/DesiOS"
            revision="refs/heads/nougat" />
 
